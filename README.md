@@ -15,7 +15,7 @@
 * torch-geometric==2.6.1
 
 ## LLM and LM
-  * **LLM:**: DeepSeek-Chat
+  * **LLM**: DeepSeek-Chat
   * **LM**: jina-embedding-v3
 
 ## Dataset 
