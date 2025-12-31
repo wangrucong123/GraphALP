@@ -1,4 +1,4 @@
-# GraphALLM：When Noisy Labels Meet Class Imbalance on Graphs: A Graph Augmentation Method with LLM and Pseudo Label
+# GraphALP：When Noisy Labels Meet Class Imbalance on Graphs: A Graph Augmentation Method with LLM and Pseudo Label
 
 ## Main Requirements
 * python==3.9
