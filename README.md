@@ -24,9 +24,8 @@ The experiments use four graph datasets: **Cora**、**CiteSeer**、**Wiki-CS**�
 ## Evaluation Metrics
 
 - **Accuracy (ACC)**
-- **Macro-F1** (for class balance)
-- **Micro-F1** (for global correctness)
-- **G-Mean** (Geometric mean of recall for all classes)
+- **Macro-F1** (computed by aggregating TP, FP, and FN over all classes)
+- **G-Mean** (Geometric mean of per-class recall)
 
 ## How To Use
 ```bash
